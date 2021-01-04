@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-## 5 Fun Places to Visit in Ohio
+## 5 Fun Places to Visit in Ohio On 1/3/2021
 
 ```{r, echo = FALSE}
 latitude<-c(41.6240560020467,	41.5070817472448,	39.3642414783608,	39.4269931100937,	40.165122629557)
